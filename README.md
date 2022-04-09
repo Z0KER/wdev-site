@@ -1,5 +1,4 @@
-# wdev-site
-# https://wdev-site.web.app
+# wdev-site: https://wdev-site.web.app
 
 ## Project setup
 ```
